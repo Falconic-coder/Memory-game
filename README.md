@@ -4,5 +4,4 @@
 
 ## Contributors
 
-[![](https://avatars.githubusercontent.com/u/70360429?v=4&s=50)](https://github.com/Falconic-coder)
-[![](https://avatars.githubusercontent.com/u/96725322?s=50&v=4)](https://github.com/AnonymousXC)
+![Contributors](https://contrib.rocks/image?repo=Falconic-coder/Memory-game)
